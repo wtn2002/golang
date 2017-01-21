@@ -1,0 +1,7 @@
+*.bak
+*.[Cc]ache
+*.bak
+*.[Cc]ache
+*.xml
+[Bb]uild/
+ .idea/
