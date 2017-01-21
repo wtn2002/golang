@@ -3,5 +3,6 @@
 *.bak
 *.[Cc]ache
 *.xml
+*.iml
 [Bb]uild/
  .idea/
